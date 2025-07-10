@@ -2,3 +2,4 @@ python-dotenv
 fastapi
 uvicorn
 pipecat
+loguru
