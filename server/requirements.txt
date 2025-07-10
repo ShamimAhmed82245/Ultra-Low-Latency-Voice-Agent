@@ -2,5 +2,5 @@ python-dotenv
 fastapi
 uvicorn
 pipecat
-pipecat-ai[webrtc,deepgram,openai,cartesia,silero]
+pipecat-ai[webrtc,deepgram,openai,google,cartesia,silero]
 loguru
