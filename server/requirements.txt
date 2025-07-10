@@ -1,4 +1,5 @@
 python-dotenv
-fastapi[all]
+fastapi
 uvicorn
-pipecat-ai[silero,websocket,google]
+pipecat
+
